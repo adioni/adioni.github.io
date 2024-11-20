@@ -1,5 +1,5 @@
-# cheeseman-lab
-Cheeseman lab website
+# test-lab
+test lab website
 
 ```bash
 conda create -n website
