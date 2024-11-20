@@ -18,4 +18,4 @@ header_pages:
 collections:
   pages:
     output: true
-    permalink: /testghpsite/:name
+    permalink: /:name
